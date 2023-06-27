@@ -1,6 +1,0 @@
-C:\Users\Programmist\Documents\Visual Studio 2015\Projects\Сверточные сети\Сверточные сети\bin\Debug\Сверточные сети.exe.config
-C:\Users\Programmist\Documents\Visual Studio 2015\Projects\Сверточные сети\Сверточные сети\obj\Debug\Сверточные сети.exe
-C:\Users\Programmist\Documents\Visual Studio 2015\Projects\Сверточные сети\Сверточные сети\obj\Debug\Сверточные сети.pdb
-C:\Users\Programmist\Documents\Visual Studio 2015\Projects\Сверточные сети\Сверточные сети\bin\Debug\Сверточные сети.exe
-C:\Users\Programmist\Documents\Visual Studio 2015\Projects\Сверточные сети\Сверточные сети\bin\Debug\Сверточные сети.pdb
-C:\Users\Programmist\Documents\Visual Studio 2015\Projects\Сверточные сети\Сверточные сети\obj\Debug\Сверточные сети.csprojResolveAssemblyReference.cache
