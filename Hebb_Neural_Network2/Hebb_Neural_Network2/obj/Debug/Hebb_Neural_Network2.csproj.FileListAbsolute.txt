@@ -1,0 +1,6 @@
+c:\users\programmist\documents\visual studio 2015\Projects\Hebb_Neural_Network2\Hebb_Neural_Network2\bin\Debug\Hebb_Neural_Network2.exe.config
+c:\users\programmist\documents\visual studio 2015\Projects\Hebb_Neural_Network2\Hebb_Neural_Network2\bin\Debug\Hebb_Neural_Network2.exe
+c:\users\programmist\documents\visual studio 2015\Projects\Hebb_Neural_Network2\Hebb_Neural_Network2\bin\Debug\Hebb_Neural_Network2.pdb
+c:\users\programmist\documents\visual studio 2015\Projects\Hebb_Neural_Network2\Hebb_Neural_Network2\obj\Debug\Hebb_Neural_Network2.csprojResolveAssemblyReference.cache
+c:\users\programmist\documents\visual studio 2015\Projects\Hebb_Neural_Network2\Hebb_Neural_Network2\obj\Debug\Hebb_Neural_Network2.exe
+c:\users\programmist\documents\visual studio 2015\Projects\Hebb_Neural_Network2\Hebb_Neural_Network2\obj\Debug\Hebb_Neural_Network2.pdb

@@ -1,0 +1,6 @@
+c:\users\programmist\documents\visual studio 2015\Projects\Perceptron_Neural_Network\Perceptron_Neural_Network\bin\Debug\Perceptron_Neural_Network.exe.config
+C:\Users\Programmist\Documents\Visual Studio 2015\Projects\Perceptron_Neural_Network\Perceptron_Neural_Network\bin\Debug\Perceptron_Neural_Network.exe
+C:\Users\Programmist\Documents\Visual Studio 2015\Projects\Perceptron_Neural_Network\Perceptron_Neural_Network\bin\Debug\Perceptron_Neural_Network.pdb
+C:\Users\Programmist\Documents\Visual Studio 2015\Projects\Perceptron_Neural_Network\Perceptron_Neural_Network\obj\Debug\Perceptron_Neural_Network.csprojResolveAssemblyReference.cache
+C:\Users\Programmist\Documents\Visual Studio 2015\Projects\Perceptron_Neural_Network\Perceptron_Neural_Network\obj\Debug\Perceptron_Neural_Network.exe
+C:\Users\Programmist\Documents\Visual Studio 2015\Projects\Perceptron_Neural_Network\Perceptron_Neural_Network\obj\Debug\Perceptron_Neural_Network.pdb

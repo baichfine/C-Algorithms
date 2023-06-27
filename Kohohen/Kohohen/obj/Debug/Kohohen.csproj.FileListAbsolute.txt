@@ -1,0 +1,7 @@
+c:\users\programmist\documents\visual studio 2015\Projects\Kohohen\Kohohen\bin\Debug\Kohohen.exe.config
+c:\users\programmist\documents\visual studio 2015\Projects\Kohohen\Kohohen\bin\Debug\Kohohen.exe
+c:\users\programmist\documents\visual studio 2015\Projects\Kohohen\Kohohen\bin\Debug\Kohohen.pdb
+c:\users\programmist\documents\visual studio 2015\Projects\Kohohen\Kohohen\obj\Debug\Kohohen.csprojResolveAssemblyReference.cache
+c:\users\programmist\documents\visual studio 2015\Projects\Kohohen\Kohohen\obj\Debug\Kohohen.csproj.ResolveComReference.cache
+c:\users\programmist\documents\visual studio 2015\Projects\Kohohen\Kohohen\obj\Debug\Kohohen.exe
+c:\users\programmist\documents\visual studio 2015\Projects\Kohohen\Kohohen\obj\Debug\Kohohen.pdb
