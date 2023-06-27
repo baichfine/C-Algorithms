@@ -1,2 +1,2 @@
-# C-Algorithms
+# C#-Algorithms
 C# Algorithms
